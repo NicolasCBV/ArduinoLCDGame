@@ -1,10 +1,5 @@
 #include <EEPROM.h>
 
-/*Bugs/problemas atuais:
-*Quantidade de if´s excessivos no programa, verificar este site 
-*https://pt.stackoverflow.com/questions/4731/por-que-em-algumas-situa%C3%A7%C3%B5es-ifs-s%C3%A3o-considerados-ruins
-*/
-
 #include <LiquidCrystal.h>
   
 bool game, vFire, vEnergy, vCoin=false;
